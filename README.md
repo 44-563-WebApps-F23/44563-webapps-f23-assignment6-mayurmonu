@@ -2,3 +2,6 @@
 # WebApps-F23-Assignment-6
 Introduction to Java Script and DOM
 
+Hosted at[author page](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-mayurmonu/author.html)
+Hosted at[tips page](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-mayurmonu/tips.html)
+Hosted at[crise page](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-mayurmonu/cruise.html)
